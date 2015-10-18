@@ -1,0 +1,21 @@
+{
+  "name": "responsive-tests-sass",
+  "description": "Responsive tests using sass.",
+  "main": "index.js",
+  "authors": [
+    "Jason K. Frank"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jasonkylefrank/responsive-tests-sass",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
